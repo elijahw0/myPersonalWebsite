@@ -1,0 +1,57 @@
+header{
+    background: url("https://lh3.googleusercontent.com/pw/AIL4fc_Dh86IytljxbWpSBNpqlbVqOy4SmEvWk_fVEI2PDUnF7GOq1ck3miYGit_fH2cg5iYid-u8ff9kYwRvsbiWFOfxeYrlcD_q0ybIn10Nj0Z352QAitWd2_YabcenFe-HTaRRdppu0MQUcN8PQCE8PmpWbzTwxI7xtUT0EPYVjqu4Kridg6vxjyuGRaotVhvhJBIfdHs0WnfWNrGkI29YyFjdqnV2LaGb-ua-r2HgcX6xoTenumiMzTiAdlQa5vI1wS178FDdsk-vS3u9cNedUyjLpr9DrPmtNcaIxh-Gz6Z0DfH9H-t-8HV2E3TF7U22FuSOz_YEDyyhvZcX13V-EjmX_ZPF0AUetnFk3_MCA5xEAq9SVAQRaXuPKSeUmNZaW7KXhb9b6EdIqQqXKcXdpTuG1f0cNR5-pUuo8kPtYBEiJevsm_kZsmaQiQyUkz23CTo5fE1H9kkDG6j8jL_1IjFSpDCBt9WrEuiIVTmrHUuF4L94fDFV96VIRjQ12xeTk8qj7Lnams8YtACEM_kL0AQYDRbjxQWy_IFDva-qPF4d9jX1MiTcfavlR3uzvEvGC6sJj2J-nKZVK13PA0jxoXvGI6ReRLVC4Lx1mxHi-MsmNP7-gJUyet8QWBnTeu_Hnlf6wW_t9sO6Pw5rCfo0jYiyMhYGy8vcmML8JaxVjnIT1YXFjmU2o_qkPrUyJhMBQDnbvlF5p8-_w1uVBphcCpXlDm4zUdUWauS76ugeFIcMT0G749VEeBoYlukshQlySpe9SLLYigVRfQv25VIxgkj5m6qRYC1jxPjTYVCI9Amtxjd4wq6v72n_qo6yr15TweY0sb6ediZu_y7_vY2nAhKKYtBmPLR38SqjPRrGzivcZ-XvMtrUeUR9bjY7vvNctsq3ASJ7yxO2UIOtkkHQQ=w658-h877-s-no?authuser=0");
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size:cover;
+    
+    border-radius: 100000px; 
+    
+
+}
+nav{
+    display:flex;
+    padding: 5px;
+    justify-content:space-around;
+    background-color:#ffffff;
+   
+}
+.element{
+    border-radius: 100px;
+    padding:0px;
+}
+div{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:32px;
+    
+}
+body{
+    background-color: #1b9aaa;
+}
+h1{
+    display:flex;
+    justify-content: center;
+    font-size:80px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight:bold;
+    text-align: center;
+    color: #050505;
+    padding-top:0;
+    margin-top: 0;
+}
+#g{
+    color:#1b9aaa;
+}
+#p{
+    color:#1b9aaa;
+}
+.b{
+    display:flex;
+    justify-content:space-around;
+
+}
+#abMeInfo{
+    display:flex;
+    justify-content:flex-start;
+   
+    align-items: center;
+}
